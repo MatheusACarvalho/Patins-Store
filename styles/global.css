@@ -24,13 +24,20 @@
   --ff-syne: "Syne", sans-serif;
   --ff-inter: "Inter", sans-serif;
 
+  --fs-sm: .75rem;
   --fs-md: .875rem;
   --fs-base: 1rem;
   --fs-lg: 2.5rem;
   --fs-xl: 4rem;
 
   --fw-base: 500;
-  --fw-bold: 700
+  --fw-bold: 700;
+  
+  --py-sm: 1.25rem;
+  --py-base: 2.5rem;
+
+  --px-base: 2rem;
+  --px-none: 0;
 }
 
 html, button {
@@ -49,6 +56,11 @@ h1 {
 h2 {
   font-size: var(--fs-lg);
   line-height: 1.2;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
 }
 
 span {
