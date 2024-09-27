@@ -1,7 +1,6 @@
 #hero {
   align-items: center;
   justify-content: space-between;
-  overflow: hidden;
 
   & span {
     font-family: var(--ff-syne);
