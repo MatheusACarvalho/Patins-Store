@@ -1,20 +1,20 @@
-.px-none{
+.px-none {
   padding-inline: var(--px-none);
 }
 
-.px-base{
+.px-base {
   padding-inline: var(--px-base);
 }
 
-.py-base{
+.py-base {
   padding-block: var(--py-base);
 }
 
-.py-sm{
+.py-sm {
   padding-block: var(--py-sm);
 }
 
-.container{
+.container {
   --max-width: 2560px;
   width: min(var(--max-width), calc(100% - var(--px-base) * 2));
   margin-inline: auto;
