@@ -7,7 +7,7 @@
 :root {
   /*Cores*/
 
-  --sniptap-sun: #FFCD1E;
+  --snitap-sun: #FFCD1E;
   --snitap-sky-mid: #06B6D4;
   --snitap-sky-light: #67E8F9;
   --snitap-joy-mid: #DB2777;
@@ -46,6 +46,7 @@ html, button {
 
 h1, h2 {
   font-family: var(--ff-syne) ;
+  font-weight: var(--fw-bold);
 }
 
 h1 {
