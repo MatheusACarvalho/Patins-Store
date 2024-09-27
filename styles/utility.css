@@ -1,17 +1,17 @@
 .px-none{
-  padding: var(--px-none);
+  padding-inline: var(--px-none);
 }
 
 .px-base{
-  padding: var(--px-base);
+  padding-inline: var(--px-base);
 }
 
 .py-base{
-  padding: var(--py-base);
+  padding-block: var(--py-base);
 }
 
 .py-sm{
-  padding: var(--py-sm);
+  padding-block: var(--py-sm);
 }
 
 .container{
