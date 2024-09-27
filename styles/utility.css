@@ -15,7 +15,7 @@
 }
 
 .container{
-  --max-width: 1280px ;
+  --max-width: 2560px;
   width: min(var(--max-width), calc(100% - var(--px-base) * 2));
   margin-inline: auto;
 }
